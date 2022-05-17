@@ -1,0 +1,27 @@
+{
+    "name": "modern-isomorphic-ws",
+    "version": "0.1.0",
+    "description": "Modern isomorphic implementation of WebSocket",
+    "main": "node.js",
+    "browser": "browser.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JoCat/modern-isomorphic-ws.git"
+    },
+    "keywords": [
+        "browser",
+        "node",
+        "websocket",
+        "ws",
+        "isomorphic"
+    ],
+    "author": "JoCat",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JoCat/modern-isomorphic-ws/issues"
+    },
+    "homepage": "https://github.com/JoCat/modern-isomorphic-ws#readme",
+    "peerDependencies": {
+        "ws": "^8.6.0"
+    }
+}
