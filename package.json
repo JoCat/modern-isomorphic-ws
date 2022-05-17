@@ -1,9 +1,10 @@
 {
     "name": "modern-isomorphic-ws",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Modern isomorphic implementation of WebSocket",
     "main": "node.js",
     "exports": {
+        "browser": "./browser.js",
         "import": "./index.js",
         "require": "./node.js"
     },
