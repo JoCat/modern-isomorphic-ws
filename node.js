@@ -1,2 +1,2 @@
-import WebSocket from "ws";
-export { WebSocket };
+const WebSocket = require("ws");
+module.exports = WebSocket;

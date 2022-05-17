@@ -1,9 +1,14 @@
 {
     "name": "modern-isomorphic-ws",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Modern isomorphic implementation of WebSocket",
     "main": "node.js",
+    "exports": {
+        "import": "./index.js",
+        "require": "./node.js"
+    },
     "browser": "browser.js",
+    "types": "index.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JoCat/modern-isomorphic-ws.git"
