@@ -28,6 +28,6 @@
     },
     "homepage": "https://github.com/JoCat/modern-isomorphic-ws#readme",
     "peerDependencies": {
-        "ws": "^8.6.0"
+        "ws": "^8.11.0"
     }
 }
