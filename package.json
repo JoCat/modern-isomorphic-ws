@@ -2,11 +2,11 @@
     "name": "modern-isomorphic-ws",
     "version": "1.0.2",
     "description": "Modern isomorphic implementation of WebSocket",
-    "main": "node.js",
+    "main": "require.js",
     "exports": {
         "browser": "./browser.js",
-        "import": "./index.js",
-        "require": "./node.js"
+        "import": "./import.js",
+        "require": "./require.js"
     },
     "browser": "browser.js",
     "types": "index.d.ts",
@@ -29,10 +29,5 @@
     "homepage": "https://github.com/JoCat/modern-isomorphic-ws#readme",
     "peerDependencies": {
         "ws": "^8.6.0"
-    },
-    "files": [
-        "browser.js",
-        "index.js",
-        "index.d.ts"
-    ]
+    }
 }
