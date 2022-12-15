@@ -26,7 +26,7 @@ You need to install both this package and [ws](https://github.com/websockets/ws)
 
 If you are using TypeScript, also set the type declarations:
 
-`npm i @types/ws`
+`npm i @types/ws -D`
 
 Now just import this package:
 

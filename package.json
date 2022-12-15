@@ -29,5 +29,10 @@
     "homepage": "https://github.com/JoCat/modern-isomorphic-ws#readme",
     "peerDependencies": {
         "ws": "^8.6.0"
-    }
+    },
+    "files": [
+        "browser.js",
+        "index.js",
+        "index.d.ts"
+    ]
 }

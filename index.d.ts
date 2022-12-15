@@ -1,2 +1,2 @@
-import WebSocket = require("ws");
-export default WebSocket;
+import WebSocket from "ws";
+export = WebSocket;
