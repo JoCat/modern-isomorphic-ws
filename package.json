@@ -1,6 +1,6 @@
 {
     "name": "modern-isomorphic-ws",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Modern isomorphic implementation of WebSocket",
     "main": "require.js",
     "exports": {
