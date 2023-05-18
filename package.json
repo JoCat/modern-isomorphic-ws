@@ -6,7 +6,8 @@
     "exports": {
         "browser": "./browser.js",
         "import": "./import.js",
-        "require": "./require.js"
+        "require": "./require.js",
+        "types": "./index.d.ts"
     },
     "browser": "browser.js",
     "types": "index.d.ts",
