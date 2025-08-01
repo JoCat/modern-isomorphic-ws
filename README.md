@@ -1,9 +1,7 @@
 # modern-isomorphic-ws
 
-![MIT License](https://badgen.net/github/license/jocat/modern-isomorphic-ws)
-![Types](https://badgen.net/npm/types/modern-isomorphic-ws)
-![Version](https://badgen.net/npm/v/modern-isomorphic-ws)
-![Package size](https://badgen.net/packagephobia/publish/modern-isomorphic-ws)
+> [!NOTE]
+> Starting with version 22.4.0, [Node.js includes a WebSocket](https://nodejs.org/docs/latest/api/globals.html#class-websocket) client API without an experimental flag.
 
 Isomorphic WebSocket client implementation inspired by the [heinisuo/isomorphic-ws](https://github.com/heineiuo/isomorphic-ws) package.
 
